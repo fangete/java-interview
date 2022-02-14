@@ -11,9 +11,9 @@
 + [Servlets, JSP, JSTL](#servlets-jsp-jstl) ![icon][done]
 + [Базы данных](#Базы-данных) ![icon][done]
 + [SQL](#sql) ![icon][done]
-+ [JDBC](#jpa)
-+ [JDBC](#jdbc) ![icon][done]
-+ [Hibernate](#hibernate) ![icon][done]
++ [JPA](#jpa)
++ [JDBC](#jdbc)
++ [Hibernate](#hibernate)
 + [Тестирование](#Тестирование) ![icon][done]
 + [Журналирование](#Журналирование) ![icon][done]
 + [UML](#uml) ![icon][done]
