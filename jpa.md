@@ -1,6 +1,6 @@
 [Вопросы для собеседования](README.md)
 
-#JPA (Java Persistence API)
+# JPA (Java Persistence API)
 + [Что такое JPA?](#Что-такое-JPA)
 + [Из чего состоит JPA?](#Из-чего-состоит-JPA)
 + [В чем её отличие JPA от Hibernate?](#В-чем-её-отличие-JPA-от-Hibernate)
