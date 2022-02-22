@@ -234,5 +234,6 @@ JIT-компилятор устраняет недостатки интерпр�
 - https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-2.html
 - https://www.developer.com/java/data/understanding-the-jvm-architecture.html
 - https://dzone.com/articles/understanding-jvm-internals
+- https://telegra.ph/Arhitektura-virtualnoj-mashiny-Java-obyasnenie-dlya-nachinayushchih-02-22
 
 [к оглавлению](#jvm)
